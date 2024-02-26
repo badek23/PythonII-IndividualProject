@@ -5,5 +5,9 @@ This is an individual project for a Master's-level Pythin II class. Given severa
 ### Technologies 
 This project is coded in Python. Libraries used include: 🧠scikit-learn | 📉plotly | 🌊seaborn | 🐼pandas | 🧮numpy
 
-### Challenges
-TO BE UPDATED
+### Files
+- data: This folder contains the input data files for this project.
+- BadeKatherine_Assignment1: This file contains all script for this project.
+- BadeKatherine_A_train: This csv is the product of the data cleaning and manipulation in the first part of the script.
+- submission6: This csv is the predictions on the submission_features dataset utilizing the best model in the script.
+- threshold: This json file holds the suggested threshold, below which customers should be offered loans, as calculated in the script.
